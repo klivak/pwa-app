@@ -1,0 +1,13 @@
+{
+  "name": "pwa-app",
+  "version": "1.0.0",
+  "description": "PWA test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "author": "klvk",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
